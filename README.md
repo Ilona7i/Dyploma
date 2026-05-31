@@ -159,16 +159,16 @@ http://127.0.0.1:5000/
 ## Скриншоти
 
 ### Головна сторінка
-- [Головна сторінка](screenshots/img1.png)
+![Головна сторінка](screenshots/img1.png)
 
 ### Сторінка меню
-- [Сторінка меню](screenshots/img2.png)
+![Сторінка меню](screenshots/img2.png)
 
 ### Рекомендація напоїв відносно погоди
-- [Погодні рекомендації](screenshots/img3.png)
+![Погодні рекомендації](screenshots/img3.png)
 
 ### AI-чатбот у дії
-- [AI-чатбот](screenshots/img4.png)
+![AI-чатбот](screenshots/img4.png)
 
 
 ---
